@@ -2,4 +2,110 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!-- Layout -->
+    <!-- Metrics & Keylines -->
+    <dimen name="layout_keylines_screen_edge_margin_16">16dp</dimen>
+    <dimen name="layout_keylines_content_left_margin_from_screen_edge_72">72dp</dimen>
+    <dimen name="layout_keylines_horizontal_mobile_margin_16">16dp</dimen>
+    <dimen name="layout_vertical_spacing_status_bar_24">24dp</dimen>
+    <dimen name="layout_vertical_spacing_tool_bar_56">56dp</dimen>
+    <dimen name="layout_vertical_spacing_subtitle_48">48dp</dimen>
+    <dimen name="layout_vertical_spacing_list_item_72">72dp</dimen>
+    <dimen name="layout_vertical_spacing_between_content_areas_8">8dp</dimen>
+    <dimen name="layout_vertical_spacing_right_side_icons_margin_32">32dp</dimen>
+    <dimen name="layout_vertical_spacing_navigation_right_margin_56">56dp</dimen>
+    <dimen name="layout_avatar_40">40dp</dimen>
+    <dimen name="layout_icon_24">24dp</dimen>
+    <dimen name="layout_touch_target_48">48dp</dimen>
+    <dimen name="layout_button_height_36">36dp</dimen>
+    <!-- Structure -->
+    <dimen name="layout_app_bar_height_56">56dp</dimen>
+    <dimen name="layout_app_bar_horizontal_padding_16">16dp</dimen>
+    <dimen name="layout_app_bar_icon_padding_16">16dp</dimen>
+    <dimen name="layout_app_bar_title_left_padding_72">72dp</dimen>
+    <dimen name="layout_app_bar_title_bottom_padding_20">20dp</dimen>
+
+    <!-- Components -->
+    <!-- Bottom sheets -->
+    <dimen name="component_bottom_sheet_edge_left_right_margins_16">16dp</dimen>
+    <dimen name="component_bottom_sheet_edge_top_bottom_margins_8">8dp</dimen>
+    <dimen name="component_bottom_sheet_list_item_height_48">48dp</dimen>
+    <dimen name="component_bottom_sheet_list_item_text_horizontal_padding_32">32dp</dimen>
+    <!-- Bottom navigation -->
+    <!-- Buttons -->
+    <dimen name="component_button_height_36">36dp</dimen>
+    <dimen name="component_button_dense_height_32">32dp</dimen>
+    <dimen name="component_button_minwidth_88">88dp</dimen>
+    <dimen name="component_button_touchable_target_height_48">48dp</dimen>
+    <dimen name="component_button_corner_radius_2">2dp</dimen>
+    <dimen name="component_button_text_left_and_right_padding_16">16dp</dimen>
+    <dimen name="component_button_text_size_14">14pt</dimen>
+    <dimen name="component_button_dense_text_size_13">13pt</dimen>
+    <!-- Floating action button -->
+    <dimen name="component_floating_action_button_margin_16">16dp</dimen>
+    <dimen name="component_foating_action_button_size_56">56dp</dimen>
+    <dimen name="component_floating_action_button_mini_size_40">40dp</dimen>
+    <!-- Cards -->
+    <dimen name="component_cards_primary_title_top_padding_24">24dp</dimen>
+    <dimen name="component_cards_primary_title_bottom_padding_16">16dp</dimen>
+    <dimen name="component_cards_action_button_row_padding_8">8dp</dimen>
+    <dimen name="component_cards_supporting_text_top_padding_16">16dp</dimen>
+    <dimen name="component_cards_supporting_text_bottom_padding_24">24dp</dimen>
+    <!-- Chips -->
+    <!-- Data table -->
+    <!-- Dialogs -->
+    <dimen name="component_dialogs_padding_around_content_area_24">24dp</dimen>
+    <dimen name="component_dialogs_padding_between_title_and_body_text_20">20dp</dimen>
+    <dimen name="component_dialogs_padding_around_buttons_8">8dp</dimen>
+    <dimen name="component_dialogs_action_area_height_52">52dp</dimen>
+    <dimen name="component_dialogs_padding_between_text_and_touch_target_24">24dp</dimen>
+    <dimen name="component_dialogs_elevation_24">24dp</dimen>
+    <dimen name="component_dialogs_padding_below_touch_target_to_dialog_edge_8">8dp</dimen>
+    <dimen name="component_dialogs_padding_between_button_text_right_edge_and_dialog_edge_16">16dp</dimen>
+    <!-- Dividers -->
+    <!-- Expansion panels -->
+    <!-- Grid lists -->
+    <dimen name="component_grid_lists_header_footer_height_48">48dp</dimen>
+    <dimen name="component_grid_lists_header_footer_text_padding_16">16dp</dimen>
+    <dimen name="component_rid_lsts_header_footer_text_size_16">16sp</dimen>
+    <dimen name="component_grid_lists_two_line_header_footer_height_68">68dp</dimen>
+    <dimen name="component_grid_lists_padding_big_4">4dp</dimen>
+    <dimen name="component_grid_lists_padding_small_1">1dp</dimen>
+    <!-- Lists -->
+    <dimen name="component_lists_icon_left_padding_16">16dp</dimen>
+    <dimen name="component_lists_text_left_padding_72">72dp</dimen>
+    <dimen name="component_lists_right_padding_16">16dp</dimen>
+    <dimen name="component_lists_single_line_height_48">48dp</dimen>
+    <dimen name="component_lists_padding_above_list_8">8dp</dimen>
+    <dimen name="component_lists_single_line_with_avatar_height_56">56dp</dimen>
+    <dimen name="component_lists_single_line_text_size_16">16sp</dimen>
+    <dimen name="component_lists_two_line_height_56">56dp</dimen>
+    <dimen name="component_lists_two_line_text_size_16">16sp</dimen>
+    <dimen name="component_lists_two_line_secondary_text_size_14">14sp</dimen>
+    <dimen name="component_lists_three_line_height_88">88dp</dimen>
+    <dimen name="component_lists_text_padding_bottom_20">20dp</dimen>
+    <!-- Lists: Controls -->
+    <!-- Menus -->
+    <!-- Pickers -->
+    <!-- Progress & activity -->
+    <!-- Selection controls -->
+    <!-- Sliders -->
+    <!-- Snackbars & toasts -->
+    <!-- Steppers -->
+    <!-- Subheaders -->
+    <!-- Tabs -->
+    <!-- Text fields-->
+    <dimen name="component_text_fields_floating_label_height_72">72dp</dimen>
+    <dimen name="component_text_fields_floating_label_padding_above_label_text_16">16dp</dimen>
+    <dimen name="component_text_fields_floating_label_padding_between_label_and_input_text_8">8dp</dimen>
+    <dimen name="component_text_fields_floating_label_padding_below_input_text_including_divider_8">8dp</dimen>
+    <dimen name="component_text_fields_floating_label_padding_below_text_divider_8">8dp</dimen>
+    <dimen name="component_text_fields_icon_height_48">48dp</dimen>
+    <dimen name="component_text_fields_padding_above_and_below_label_16">16dp</dimen>
+    <dimen name="component_text_full_width_single_line_text_field_height_56">56dp</dimen>
+    <dimen name="component_text_full_width_single_line_text_field_text_top_and_bottom_padding_20">20dp</dimen>
+
+
 </resources>
