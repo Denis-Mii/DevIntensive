@@ -3,7 +3,6 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 
-
     <!-- Layout -->
     <!-- Metrics & Keylines -->
     <dimen name="layout_keylines_screen_edge_margin_16">16dp</dimen>
